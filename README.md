@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @APB-s
 - 👀 I’m interested in Cybersecurity/Cyerdefense
-- 🌱 I’m currently learning at Télécom Paris Cybersecurity/Cyberdefense
+- 📝 Doing my Master degree at Télécom Paris Cybersecurity/Cyberdefense
 - 📫 How to reach me apb_saillour@protonmail.com
+
+🔒 Privacy and Security matters
+🆓 Degooglised & Social Network FREE
 
 <!---
 APB-s/APB-s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
