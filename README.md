@@ -4,7 +4,7 @@
 - 📫 How to reach me apb_saillour@protonmail.com
 
 🔒 Privacy and Security matters
-🆓 Degooglised & Social Network FREE
+🆓 Degooglised
 
 <!---
 APB-s/APB-s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
