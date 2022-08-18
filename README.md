@@ -3,7 +3,7 @@
 - 📝 Doing my Master degree at Télécom Paris Cybersecurity/Cyberdefense
 - 📫 How to reach me apb_saillour@protonmail.com
 
-:camera: Btw, I'm a photographer, and you can check my website right here: [mazepaul](mazepaul.com)
+:camera: Btw, I'm a photographer, and you can check my website right here: [mazepaul](https://www.mazepaul.com)
 
 🔒 Privacy and Security matters
 🆓 Degooglised
