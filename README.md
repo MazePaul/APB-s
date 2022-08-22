@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m @APB-s
-- 👀 I’m interested in Cybersecurity/Cyerdefense
+- 👀 I’m interested in Cybersecurity
 - 📝 Doing my Master degree at Télécom Paris Cybersecurity/Cyberdefense
 - 📫 How to reach me apb_saillour@protonmail.com
 - :camera: Btw, I'm a photographer, and you can check my website right here: [mazepaul](https://www.mazepaul.com)
