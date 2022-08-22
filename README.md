@@ -7,4 +7,4 @@
 🔒 Privacy and Security matters | 🆓 Degooglised
 
 
-[![APB's GitHub stats](https://github-readme-stats.vercel.app/api?username=APB-s&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![APB's GitHub stats](https://github-readme-stats.vercel.app/api?username=APB-s&show_icons=true&theme=tokyonight)](https://github.com/APB-s)
