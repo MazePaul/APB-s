@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cybersecurity
 - 💻 Passionate about RE/CTI 
 - 📝 Doing my Master degree at Télécom Paris Cybersecurity/Cyberdefense
-- 📫 How to reach me pro@mazepaul.com
+- 📫 How to reach me pro@mazepaul.fr
 
 🔒 Privacy and Security matters | 🆓 Degooglised
 
